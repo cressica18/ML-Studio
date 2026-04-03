@@ -13,7 +13,7 @@ from sklearn.metrics import make_scorer, f1_score, recall_score, matthews_corrco
 
 # 1. Path Configuration
 ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "MTask 3.0"
+DATA_DIR = ROOT / "mtask_3.0"
 DATA_CSV = DATA_DIR / "yeast.csv"
 
 st.set_page_config(

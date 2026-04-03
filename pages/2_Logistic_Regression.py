@@ -15,7 +15,7 @@ from sklearn.metrics import (
  
 # --- 1. PATH CONFIGURATION ---
 ROOT     = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "Mtask 2.1"
+DATA_DIR = ROOT / "mtask_2.1"
 TRAIN_CSV = DATA_DIR / "crime_train.csv"
 TEST_CSV  = DATA_DIR / "crime_test.csv"
  

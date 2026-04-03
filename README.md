@@ -2,14 +2,14 @@
 
 An interactive, multi-page web app that showcases machine learning models built from scratch — covering regression, classification, ensemble methods, and unsupervised learning. Each model was originally developed for real datasets provided by a university tech club, and is now wrapped in a clean, interactive UI for exploration and demonstration.
 
-**[🚀 Live Demo →](https://your-app-link.streamlit.app)** ← replace with your deployed link
+**[🚀 Live Demo →]** 
 
 ---
 
 ## 📸 Preview
 
 
->  [screentogif.com](https://www.screentogif.com/) 
+>  [screentogif.com]
 
 ---
 
@@ -81,10 +81,10 @@ ml-studio/
 │   ├── 3_Decision_Tree.py
 │   ├── 4_Tree_Ensembles.py
 │   └── 5_KMeans_Clustering.py
-├── MTask 2.0/              # Stock dataset
-├── Mtask 2.1/              # Crime dataset
-├── MTask 3.0/              # Yeast protein dataset
-├── MTask 3.3/              # Seeds dataset
+├── mtask_2.0/              # Stock dataset
+├── mtask_2.1/              # Crime dataset
+├── mtask_3.0/              # Yeast protein dataset
+├── mtask_3.3/              # Seeds dataset
 ├── requirements.txt
 └── README.md
 ```
