@@ -2,13 +2,12 @@
 
 An interactive, multi-page web app that showcases machine learning models built from scratch — covering regression, classification, ensemble methods, and unsupervised learning. Each model was originally developed for real datasets provided by a university tech club, and is now wrapped in a clean, interactive UI for exploration and demonstration.
 
-**[🚀 Live Demo →]** 
+ [Live Demo → Click Here to Explore ML Studio](https://cressica-ml-studio.streamlit.app/)
 
 ---
 
 ## 📸 Preview
-
-
+Coming Soon...
 >  [screentogif.com]
 
 ---
