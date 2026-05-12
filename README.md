@@ -7,7 +7,6 @@ An interactive, multi-page web app that showcases machine learning models built 
 ---
 
 ## 📸 Preview
-Coming Soon...
 >  <img width="1920" height="996" alt="Screenshot (1173)" src="https://github.com/user-attachments/assets/f968c75e-c554-4083-87b5-d86b6c623114" />
 <img width="1920" height="857" alt="Screenshot (1174)" src="https://github.com/user-attachments/assets/93b81ffe-7167-4e5d-b881-ec87dc2b2bdb" />
 
