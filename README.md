@@ -102,4 +102,4 @@ ml-studio/
 
 **Your Name**
 - GitHub: [@cressica18]https://github.com/cressica18
-- LinkedIn: https://www.linkedin.com/in/subhangi-banerjee-51b7772b1/
+- LinkedIn: https://www.linkedin.com/in/subhangi-banerjee/
